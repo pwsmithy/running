@@ -1,0 +1,5 @@
+fitparse
+jupyterlab
+numpy
+matplotlib
+pandas
